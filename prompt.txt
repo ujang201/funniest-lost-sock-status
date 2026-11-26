@@ -1,0 +1,5 @@
+Funniest Lost Sock Status Update — one status update of at most 120 characters, written in the voice of a lost sock that has ended up somewhere it should not be, produced by a deterministic TypeScript program (main.ts) that writes the update to entry.txt.
+
+The update: "Day 6 in the dog's bed. He snores, he drools, and he keeps introducing me as his emotional support sock." (104 characters)
+
+Why it works: it is the sock speaking, not the owner writing about the sock — a small, domestic, slightly anxious voice reporting from the dog's bed, a place a sock should not be. It dodges the obvious sock material (no dryer, no missing partner) and lands its punchline in the last few words: the dog now introduces the sock as his emotional support sock.
